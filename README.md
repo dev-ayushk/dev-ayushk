@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning Data Structure and Algorithms and practising competitive programming on Hackerrank and Codechef.
 - 
 <hr>
-- 📫 Let's connect..
---
+- 📫Let's connect..
+-       <a href="https://twitter.com/__ayushkr__">Twitter<br>
+-       <a href="https://www.linkedin.com/in/ayushkumar411"/>Linkedin<br>
 
 
 <!---
