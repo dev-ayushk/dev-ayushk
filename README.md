@@ -1,11 +1,11 @@
 - 👋 Hi there, I’m Ayush currently a second year student at Dayananda Sagar College of Engineering, Bangalore studying Electrical and Electronics Engineering.
 - 👀 I’m interested in software development and seeking knowledge related to same.
-- 🌱 I’m currently learning Data Structure and Algorithms and practising competitive programming on Hackerrank and Codechef.
-- 
+- 🌱 I’m currently learning Data Structure and Algorithms and practising competitive programming.
+- 🤖 You can find me solving questions on <a href="https://www.hackerrank.com/ayush_akr2019">Hackerrank<br> and <a href="https://www.codechef.com/users/ayukr_">Codechef<br>
 <hr>
-- 📫Let's connect..
--       <a href="https://twitter.com/__ayushkr__">Twitter<br>
--       <a href="https://www.linkedin.com/in/ayushkumar411"/>Linkedin<br>
+- 🤝Let's connect..<br>
+➡︎      <a href="https://twitter.com/__ayushkr__">Twitter<br>
+➡︎      <a href="https://www.linkedin.com/in/ayushkumar411"/>Linkedin<br>
 
 
 <!---
