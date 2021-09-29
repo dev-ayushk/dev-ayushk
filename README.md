@@ -24,11 +24,14 @@
 - 👀 I’m interested in software development and seeking knowledge related to same.
 - 🌱 I’m currently practising Data Structure and Algorithms in JAVA and learning Web development from Pepcoding under the guidance of Sumeet Malik sir.
 - 🤖 You can find me solving questions on <a href="https://www.hackerrank.com/ayush_akr2019">Hackerrank </a>and <a href="https://www.codechef.com/users/ayukr">Codechef</a> <br>
+
 <hr>
+
+<!-- <hr>
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=dev-ayushk&show_icons=true&hide_border=true)
-<br />
+<br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-ayushk.dev-ayushk)
-<!---
-dev-ayushk/dev-ayushk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- -->
+<!-- dev-ayushk/dev-ayushk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> 
