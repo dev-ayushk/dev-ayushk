@@ -18,20 +18,59 @@
 
 <br>
 
-### About me 🚀
 
-- 👋 Hi there, I’m currently a pre final year student at Dayananda Sagar College of Engineering, Bangalore studying Electrical and Electronics Engineering.
-- 👀 I’m interested in software development and seeking knowledge related to same.
-- 🌱 I’m currently practising Data Structure and Algorithms in JAVA and learning Web development from Pepcoding under the guidance of Sumeet Malik sir.
-- 🤖 You can find me solving questions on <a href="https://www.hackerrank.com/ayush_akr2019">Hackerrank </a>and <a href="https://www.codechef.com/users/ayukr">Codechef</a> <br>
+🚀 **AI Engineer | Agentic Systems Builder |
+🇮🇳 India
 
-<hr>
+I build **AI-first systems** — from intelligent agents and LLM-powered backends to data-driven products.  
+My focus is on **practical AI**: systems that actually work in production.
 
-<!-- <hr>
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=dev-ayushk&show_icons=true&hide_border=true)
-<br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-ayushk.dev-ayushk)
-<!--- -->
-<!-- dev-ayushk/dev-ayushk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
+---
+
+## 🧠 What I Do
+
+- 🤖 Build **Agentic AI systems** (LLMs, tools, memory, workflows)
+- 🧩 Design **backend architectures** for AI products (APIs, servers, pipelines)
+- 📊 Work with **data, analytics, and ML fundamentals**
+- 🛠️ Explore **AI infra, performance, and optimization**
+- 🎓 Slowly moving towards **AI consulting & corporate training**
+
+I care deeply about **clarity, systems thinking, and long-term leverage**.
+
+---
+
+## 🛠 Tech Stack
+
+### AI / ML
+- LLMs, Prompt Engineering, Agentic Workflows  
+- LangGraph, LangChain, OpenAI APIs  
+- RAG, Embeddings, Vector Databases  
+
+### Backend & Systems
+- Python, FastAPI  
+- REST APIs, Async systems  
+- Databases (SQL, basics of DB internals)
+
+### Data & Analytics
+- SQL (advanced querying)
+- Statistics & Probability
+- Data Visualization (Power BI – learning & applying)
+
+### Dev & Tools
+- Git & GitHub
+- Linux / Terminal-first workflows
+- Cloud basics & deployment concepts
+
+---
+
+## 📌 Current Focus
+
+- 🔹 Mastering **Agentic AI (LangGraph + real-world use cases)**
+- 🔹 Building **end-to-end AI products**
+- 🔹 Sharpening **data + ML foundations**
+- 🔹 Creating content & documentation that teaches clearly
+
+---
+
+⭐ If you find my work useful, feel free to star or fork —  
+I’m always building.
